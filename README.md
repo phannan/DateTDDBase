@@ -15,7 +15,7 @@ Write a function that determines if a date is valid.  September, April, June, No
 
 Write a function that adds n days to the current date.  n can be positive or negative.
 
-#Round 1
+### Round 1
 
 + Create Function returns True or False Based on Whether it’s a Leap Year.
 + Have a strategy discussion among the three of you.
@@ -24,7 +24,7 @@ Write a function that adds n days to the current date.  n can be positive or neg
 + Continue Pairing on follow up Tasks until I bring you back.
 + Group Retro.
 
-#Round 2
+### Round 2
 + One person in the group swap into another group.
 + Have a strategy / state of the union discussion.  
 + 15 minutes of TDD ping-pong pairing
